@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lernejo-tester/lernejo-tester.iml" filepath="$PROJECT_DIR$/lernejo-tester/lernejo-tester.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/maven_training_2.iml" filepath="$PROJECT_DIR$/.idea/maven_training_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
+    </modules>
+  </component>
+</project>
